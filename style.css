@@ -12,7 +12,7 @@
     padding-bottom: 30px;
     height: auto;
 }
-
+/* Better to use classes not element  */
 input {
     outline: none;
     padding-left: 2px;
@@ -21,7 +21,7 @@ input {
 fieldset {
     margin: 5px 5px;
 }
-
+/* Better to use classes not element  */
 legend {
     margin: 0 7px;
     padding: 0 2px;
